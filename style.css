@@ -1,0 +1,25 @@
+
+
+.main {
+    font-size: 34px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    font-weight: bold;
+    
+}
+body{
+    background-color: blue;
+}
+
+.logo{
+    height: 200px;
+    width: 300px;
+}
+ul{
+    background-color: black;
+    width: 200px;
+    color: white;
+    list-style-type: square;
+}
